@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif !important;
+    width: 900px;
+    margin: 0 auto !important;
+}
+
+#jumbo {
+    margin-top: 40px !important;
+}
+
+div.jumbotron {
+    margin: 30px;
+}
+
+#api-links {
+    margin-left: 240px !important;
+}
